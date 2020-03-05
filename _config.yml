@@ -1,7 +1,7 @@
 # Site Settings
 title: Sadegh Tale
 url: 'https://mstale.github.io/'
-baseurl: '/online-cv' #change it according to your repository name
+baseurl: '/mstale.github.io' #change it according to your repository name
 description: Sadegh Tale's Online CV
 
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
